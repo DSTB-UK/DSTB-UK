@@ -1,5 +1,5 @@
 - 👋 Hi, We are @DSTB-UK
-- 👀 We're interested in creating programs programs, untilities and automation apps to help out business.
+- 👀 We're interested in creating programs, utilities and automation apps to help our business.
 - 🌱 We like using C#, Python and JS
 - 📫 How to reach us ... www.dstb.co.uk
 
